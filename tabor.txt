@@ -3,4 +3,4 @@ brutto pociagu:
 wartość hamująca:
 220t
 licza wagonów:
-10
+8
