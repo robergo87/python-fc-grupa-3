@@ -1,2 +1,5 @@
 zajety:
+Nie
+W trakcie przebudowy:
 Tak
+
