@@ -1,6 +1,6 @@
 brutto pociagu:
-300t
+630t
 wartość hamująca:
-180t
+440t
 licza wagonów:
-8
+10
